@@ -8,7 +8,7 @@ import java.io.*;
  * 
  * @author Shayan
  *
- * A Basic text editor program.
+ * A basic text editor program.
  * 
  */
 @SuppressWarnings("serial")

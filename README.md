@@ -1,2 +1,2 @@
 #TextEditor
-A Basic text editor program.
+A basic text editor program.
